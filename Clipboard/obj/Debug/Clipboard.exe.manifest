@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Clipboard.exe" size="2205592">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Clipboard.exe" size="2133912">
       <assemblyIdentity name="Clipboard" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>PXk9oFVxo0SbvCQC7GgSclqv+vQ=</dsig:DigestValue>
+        <dsig:DigestValue>kvgYELE8N95iA2bYq4NtyR7ErfU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -199,7 +199,5 @@
         Me.Dispose()
     End Sub
 
-    Private Sub Button8_Click(sender As Object, e As EventArgs)
-        Feedback.ShowDialog()
-    End Sub
+
 End Class

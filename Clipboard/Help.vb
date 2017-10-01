@@ -15,7 +15,11 @@ Public Class Help
 
     End Sub
 
-    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+    Private Sub Button4_Click(sender As Object, e As EventArgs)
 
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        System.Diagnostics.Process.Start("https://github.com/HiSteveHu/Clipboard")
     End Sub
 End Class
