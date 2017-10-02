@@ -15,7 +15,6 @@ C:\Users\histe\Documents\Visual Studio 2017\Projects\Clipboard\Clipboard\bin\Deb
 C:\Users\histe\Documents\Visual Studio 2017\Projects\Clipboard\Clipboard\bin\Debug\Clipboard.application
 C:\Users\histe\Documents\Visual Studio 2017\Projects\Clipboard\Clipboard\obj\Debug\Clipboard.exe.manifest
 C:\Users\histe\Documents\Visual Studio 2017\Projects\Clipboard\Clipboard\obj\Debug\Clipboard.application
-C:\Users\histe\documents\visual studio 2017\Projects\Clipboard\Clipboard\obj\Debug\Clipboard.Feedback.resources
 C:\Users\histe\Documents\GitHub\Clipboard\Clipboard\obj\Debug\Clipboard.vbprojResolveAssemblyReference.cache
 C:\Users\histe\Documents\GitHub\Clipboard\Clipboard\obj\Debug\Clipboard.Help.resources
 C:\Users\histe\Documents\GitHub\Clipboard\Clipboard\obj\Debug\Clipboard.info.resources
